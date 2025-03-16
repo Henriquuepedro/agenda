@@ -1,4 +1,4 @@
-# Agenda
+# Phonebook
 
 A simple contact management system built with PHP for the back-end and JavaScript for the front-end.
 
