@@ -1,8 +1,9 @@
-# agenda
+# Agenda
 
+A simple contact management system built with PHP for the back-end and JavaScript for the front-end.
 
-Agenda para contatos, feito com PHP no back-end e JS no front-end.
+## Features
 
-Possibilidade de adicionar Nome, Empresa, Telefone, E-mail, Cargo e uma Imagem.
-
-As alterações são todas sem necessidade da atualização da página em si
+- Add contact details such as Name, Company, Phone, Email, Job Title, and an Image.
+- No page refresh required for adding or editing contact details, providing a smooth user experience.
+- Fully functional CRUD (Create, Read, Update, Delete) operations for contact management.
